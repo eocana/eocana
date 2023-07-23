@@ -2,11 +2,7 @@
 
 ### University student passionate about technology and software and web development. My academic experience and personal projects have given me a solid foundation in programming and web design. I'm seeking opportunities to apply my skills in a work environment and continue learning and growing in my career.
 
-- 🔭 I’m currently working on [Cinema Booking](https://github.com/eocana/cinema-booking)
-
-- 🌱 I’m currently learning **Angular, Golang, Symfony, RabbitMQ**
-
-- 📫 How to reach me: **code.ocana@gmail.com**
+##### 📫 How to reach me: **code.ocana@gmail.com**
 
 ### Skills:
 
