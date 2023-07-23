@@ -11,7 +11,6 @@
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eric-ocana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eric-ocana/" height="30" width="40" /></a>
-<a href="https://discord.gg/goodnight_joker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="goodnight_joker" height="30" width="40" /></a>
 </p>
 
 ## Skills:
